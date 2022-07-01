@@ -1,0 +1,17 @@
+.box1 {
+    height: 200px;
+    width: 200px;
+    color: blue;
+    border: 2px;
+}
+
+.box2 {
+    height: 200px;
+    width: 200px;
+    color: green; 
+    border: 2px;  
+}
+
+.h1 {
+    text-align: center;
+}
